@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Ritik Kumar
+# Hi there! 👋 
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2CBCF7&center=true&width=435&lines=Hi+Everyone!+%F0%9F%91%8B+I+am+RITIK;I+am+a+Full+Stack+Web+Developer" alt="Typing SVG" />
 
-Frontend Web Developer with a passion for building beautiful and user-friendly web applications.
-
-![Typing Animation](https://media.giphy.com/media/cNz8KaK4Y2naJY9H1t/giphy.gif)
+Enthusiastic about learning full stack web development, currently honing skills in HTML/CSS, JavaScript, React, Node.js, and Express.js. Dedicated to mastering both front-end and back-end technologies for creating robust web applications.
 
 ## Technologies I Use
 
