@@ -2,7 +2,7 @@
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2CBCF7&center=true&width=435&lines=Hi+Everyone!+%F0%9F%91%8B+I+am+RITIK+KUMAR;I+am+a+FullStack+Web+Developer" alt="Typing SVG" />
 
-Enthusiastic about learning full stack web development, currently honing skills in HTML/CSS, JavaScript, React, Node.js, and Express.js. Dedicated to mastering both front-end and back-end technologies for creating robust web applications.
+Enthusiastic about learning full stack web development, currently honing skills in HTML/CSS, JavaScript, Mongo DB, React, Node.js, and Express.js. Dedicated to mastering both front-end and back-end technologies for creating robust web applications.
 
 ## Technologies I Use
 
