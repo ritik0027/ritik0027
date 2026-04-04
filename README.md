@@ -1,6 +1,6 @@
 # Hi there! 👋 
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2CBCF7&center=true&width=435&lines=Hi+Everyone!+%F0%9F%91%8B+I+am+RITIK+KUMAR;Full+Stack+Developer+%7C+MERN+Stack+%7C+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2CBCF7&center=true&vCenter=true&width=650&lines=Hi+Everyone!+👋+I+am+RITIK+KUMAR;Full+Stack+Developer+|+MERN+Stack+|+AWS" alt="Typing SVG" />
 
 🚀 Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack and cloud technologies.
 
