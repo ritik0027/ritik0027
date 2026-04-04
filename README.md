@@ -12,14 +12,14 @@ I specialize in developing end-to-end applications — from responsive frontend 
 
 ## 🧠 About Me
 
-- 🎓 Final Year Computer Science Student (8 CGPA)
-- 💻 Solved 400+ DSA problems on LeetCode
-- 🏆 Hackathon Achiever (1st Runner-Up - KCC Hackathon)
-- ⚡ Experience with real-world projects like:
-  - Twido (YouTube + Twitter hybrid app)
-  - Employee Management System (React + AWS + MSAL)
-  - Scheduling & Notification Systems using AWS Lambda
-- 🌱 Currently exploring advanced backend architecture & system design
+- 💼 Software Developer at AventIQ, working on scalable backend systems and modern web applications  
+- ⚙️ Experienced in building and optimizing microservices using AWS (Lambda, API Gateway, EventBridge, S3, CloudWatch, Cognito)  
+- 🔐 Developed a Common Authentication Module used across multiple enterprise applications  
+- 🚀 Worked on performance optimization using Redis caching to reduce database load and improve response time  
+- 🎨 Led UI development for internal products, focusing on clean design, better workflows, and user experience  
+- 🧩 Built and contributed to systems like Employee Management, RPA Monitoring Tools, and Admin Panels  
+- 🛠 Strong hands-on experience in MERN stack with real-world production-level implementations  
+- 🐛 Actively involved in debugging, system improvements, and enhancing application architecture  
 
 ---
 
