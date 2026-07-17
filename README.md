@@ -12,7 +12,7 @@ I specialize in developing end-to-end applications — from responsive frontend 
 
 ## 🧠 About Me
 
-- 💼 Software Developer at AventIQ, working on scalable backend systems and modern web applications  
+- 💼 Software Developer at CargoClave, working on scalable backend systems and modern web applications  
 - ⚙️ Experienced in building and optimizing microservices using AWS (Lambda, API Gateway, EventBridge, S3, CloudWatch, Cognito)  
 - 🔐 Developed a Common Authentication Module used across multiple enterprise applications  
 - 🚀 Worked on performance optimization using Redis caching to reduce database load and improve response time  
